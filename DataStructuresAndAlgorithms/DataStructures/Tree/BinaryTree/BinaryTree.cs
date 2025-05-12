@@ -54,7 +54,6 @@ public class BinaryTree<T> where T : IComparable<T>
     }
 
     // Traversal methods
-
     // Pre-order traversal: Root -> Left -> Right
     public void PreOrderTraversal(BinaryTreeNode<T> node)
     {
