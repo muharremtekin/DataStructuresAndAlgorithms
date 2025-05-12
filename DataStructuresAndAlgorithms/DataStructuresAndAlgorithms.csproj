@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DataStructures\Tree\BinarySearchTree\" />
-    <Folder Include="DataStructures\Tree\AVLTree\" />
-  </ItemGroup>
-
 </Project>
