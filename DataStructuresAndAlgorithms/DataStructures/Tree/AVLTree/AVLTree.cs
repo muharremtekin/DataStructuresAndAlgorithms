@@ -156,5 +156,5 @@ public class AVLTree
     }
 
 
-    public void ClearTree()
+    public void ClearTree() => root = null; // Ağacı temizle (kökü null yap)
 }
